@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\projeto contato\bin\Debug\projeto contato.exe.config
+C:\Users\LENOVO\source\repos\projeto contato\bin\Debug\projeto contato.exe
+C:\Users\LENOVO\source\repos\projeto contato\bin\Debug\projeto contato.pdb
+C:\Users\LENOVO\source\repos\projeto contato\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\projeto contato\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\projeto contato\obj\Debug\projeto contato.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\projeto contato\obj\Debug\projeto contato.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\projeto contato\obj\Debug\projeto .7147C60A.Up2Date
+C:\Users\LENOVO\source\repos\projeto contato\obj\Debug\projeto contato.exe
+C:\Users\LENOVO\source\repos\projeto contato\obj\Debug\projeto contato.pdb
